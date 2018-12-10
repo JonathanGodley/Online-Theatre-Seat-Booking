@@ -1,0 +1,39 @@
+.available {
+  background-color: lightgreen;
+}
+
+.occupied {
+  background-color: red;
+}
+
+#code {}
+
+body {
+  text-align: center;
+}
+
+h1 {}
+
+head {
+  text-align: center;
+}
+
+title {}
+
+p {}
+
+table {
+  margin: auto;
+}
+
+thead {}
+
+tbody {}
+
+th {
+  background-color: lightgrey;
+}
+
+tr {}
+
+td {}
